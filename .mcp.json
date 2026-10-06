@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sigeflex": {
+      "type": "http",
+      "url": "https://app.sigeflex.com/mcp"
+    }
+  }
+}

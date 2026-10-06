@@ -1,0 +1,12 @@
+{
+  "name": "sigeflex",
+  "displayName": "Sigeflex",
+  "version": "1.0.0",
+  "description": "Opere o ERP Sigeflex por conversa: vendas, notas fiscais, contas a receber e a pagar, boletos, CRM, campanhas e redes sociais, estoque, produção e posto de combustível, com o acesso do seu usuário.",
+  "author": {
+    "name": "Linksoft",
+    "url": "https://sigeflex.com"
+  },
+  "homepage": "https://sigeflex.com",
+  "repository": "https://github.com/linksoft-dev/sigeflex-plugin"
+}

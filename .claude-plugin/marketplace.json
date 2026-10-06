@@ -1,0 +1,15 @@
+{
+  "name": "sigeflex",
+  "description": "Plugins do ERP Sigeflex para assistentes de IA",
+  "owner": {
+    "name": "Linksoft",
+    "url": "https://sigeflex.com"
+  },
+  "plugins": [
+    {
+      "name": "sigeflex",
+      "source": "./",
+      "description": "Opere o ERP Sigeflex por conversa: vendas, notas fiscais, financeiro, CRM, marketing, estoque, produção e posto."
+    }
+  ]
+}
